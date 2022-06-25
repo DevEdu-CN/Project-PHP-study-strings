@@ -12,7 +12,7 @@
 <div class="mx-5 my-5">
     <h1>Formulário de cadastro loja virtual</h1>
 
-        <form action="/strings-inicial/Cadastro/cadastro.php" method="post">
+        <form action="/Cadastro/cadastro.php" method="post">
             <div class="form-group">
                 <label for="nome">Nome: </label>
                 <input type="text" id="nome" name="nome" class="form-control" placeholder="Digite seu nome">
